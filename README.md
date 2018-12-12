@@ -1,1 +1,1 @@
-Proyecto simple para probar el Framework React
+Proyecto APP Notas  para probar el Framework React
